@@ -77,12 +77,12 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     gotowości Ucznia do odbywania sesji SOLO TRAINING;
 
 ### §4 Zgłoszenia, kwalifikacja i organizacja szkolenia
-1. Do przystąpienia do szkolenia prowadzonego w ramach Szkoły Kontrolerów PLVACC zgłosić
-   może się każdy członek sieci VATSIM, który spełnia łącznie następujące warunki:
-   1 zapoznał się z aktualnym regulaminem Szkoły Kontrolerów PLVACC;
+1. Zgłoszenie na szkolenie prowadzone w ramach Szkoły Kontrolerów PLVACC może wysłać każdy członek sieci VATSIM, który w momencie aplikacji spełnia łącznie następujące warunki:
+    1. zapoznał się z aktualnym regulaminem Szkoły Kontrolerów PLVACC;
     2. jest przypisany do PLVACC jako macierzysty vACC (home vACC);
     3. spełnia wymagania VATSIM dotyczące minimalnego wieku oraz posiadania konta
        użytkownika;
+    4. dołączył do serwera discord PLVACC
     4. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
     5. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
     6. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer
