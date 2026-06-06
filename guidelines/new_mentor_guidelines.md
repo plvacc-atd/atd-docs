@@ -24,6 +24,60 @@ Szkolenie prowadzone jest zgodnie z Regulaminem Szkoły Kontrolerów PLVACC §9
 8. Analogicznie jak w przypadku awansu na S1 należy przypomnieć uczniowi, że po zdanym egzaminie CPT samodzielne logowanie do sieci na pozycji TWR może nastąpić dopiero po przyznaniu przez VATEUD rangi S2, samo zdanie egzaminu CPT nie wystarczy. Awans przyznawany jest zwykle w przeciągu 1-3 dni.
 
 ## Elementy szkolenia
+1. Omówienie przebiegu szkolenia
+   - S1 - teoria/sesja pokazowa/szkolenie sweatbox zakończone egzaminem S1
+   - s2 - teoria/sesja pokazowa/sesje nadzorowane
+   - sesje SOLO - egzamin S2 VATEUD, warunki (minimum 10 godzin w 30 dni), remarksy w controller info
+   - OTS z mentorem
+   - egzamin
+2. Wstęp 'legislacyjny'
+   - core vacc
+     - panel szkolenia     
+     - self checkin
+   - źródła wiedzy
+     - PLVACC policy
+     - PLVACC INOP, regulamin szkolenia
+- dokumenty IRL - AIP, 4444, 9432
+3. Omówienie euroscope
+    - połczenie do sweatboxa - scenariusze szkoleniowe
+    - klient audio - AfV/TrackAudio
+    - podłączenie do sieci
+      - mentor/uczeń
+      - atis, token, manualne nadpisywanie parametrów
+      - hoppie code - cpdlc/dcl
+      - częstotliwość
+      - aktywne pasy
+    - general settings
+    - display settings
+    - GRPlugin - okno APP, dep timer, TTT, wind rose, filtrowanie widoczności etykiet
+4. Lotnisko EPKK
+   - przestrzeń odpowiedzialności - powtórka z zasad obowiązujących w klasie D
+   - dostępne rodzaje podejść - ILS/LOC/VOR/RNP/Vis - minima i ograniczenia
+   - współpraca z sąsiadującymi służbami
+   - restrykcje kołowania ze względu na rozpiętość skrzydeł a/c
+   - odladzanie
+   - operacje wojskowe
+   - śmigłowce
+5. Obsługa IFR
+   - walidacja planu lotu - trasa, poziom przelotowy
+   - EOBT/CTOT, co oznaczają, obowiązki, FLS, VDGS
+   - przydzielanie kodów transpondera, mode S
+6. Obsługa VFR
+   - minima VMC, operacje VFR SPEC
+   - punkty VFRowe, oczekiwanie, wlot/opuszczenie CTR
+   - obsługa ruchu w kręgu
+   - operacje HEMS - priorytety, lądowiska, lądowanie w terenie przygodnym
+   - niestandardowe requesty pilotów - base training, imitacje, strefy szkolne
+7. Koordynacja
+    - rozpoczęcie/zakończenie sesji (atis, aktywne pasy, .break)
+    - go around
+    - niestandardowe odloty
+    - odpowiedzialność za separacje na prostej i kontrola prędkości podchodzących a/c
+    - koordynacja na VACS/Discord
+    - 
+
+
+
 1. Regulamin Szkoleń PLVACC - przywileje i obowiązki nowych uczniów
     2. sesje treningowe i egzaminy mają pierwszeństwo nad normalnymi bookingami
     3. obowiazek zapisu sesji z mentorem oraz solo, oraz przechowywanie co najmniej 7 dni po zakończeniu szkolenia
