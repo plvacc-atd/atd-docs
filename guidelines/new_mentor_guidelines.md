@@ -77,21 +77,6 @@ Szkolenie prowadzone jest zgodnie z Regulaminem Szkoły Kontrolerów PLVACC §9
     - 
 
 
-
-1. Regulamin Szkoleń PLVACC - przywileje i obowiązki nowych uczniów
-    2. sesje treningowe i egzaminy mają pierwszeństwo nad normalnymi bookingami
-    3. obowiazek zapisu sesji z mentorem oraz solo, oraz przechowywanie co najmniej 7 dni po zakończeniu szkolenia
-1. Core - training dashboard, raporty po sesjach
-2. dokumenty
-    1. vatsim specific: CoC, VATEDU CPT guidelines, PLVACC Policy
-    2. irl specific: 4444, 9432, AIP
-3. Obowiązki studenta
-    1. aktualny sektorfile
-    2. self checkin przed każdą sesją
-    3. zapisywanie logów z sesji
-    4.
-
-
 ## dodatkowe informacje
 
 1. Sesje treningowe z mentorem i egzaminy CPT/OTS mają pierwszeństwo nad normalnymi bookingami
