@@ -62,12 +62,14 @@ Szkolenie prowadzone jest zgodnie z Regulaminem Szkoły Kontrolerów PLVACC §9
    - walidacja planu lotu - trasa, poziom przelotowy
    - EOBT/CTOT, co oznaczają, obowiązki, FLS, VDGS
    - przydzielanie kodów transpondera, mode S
+   - przejście do lotu VFR
 6. Obsługa VFR
    - minima VMC, operacje VFR SPEC
    - punkty VFRowe, oczekiwanie, wlot/opuszczenie CTR
    - obsługa ruchu w kręgu
    - operacje HEMS - priorytety, lądowiska, lądowanie w terenie przygodnym
    - niestandardowe requesty pilotów - base training, imitacje, strefy szkolne
+   - przejście do lotu IFR
 7. Koordynacja
     - rozpoczęcie/zakończenie sesji (atis, aktywne pasy, .break)
     - go around
