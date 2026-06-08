@@ -28,7 +28,7 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
 ## Elementy szkolenia
 1. Omówienie przebiegu szkolenia
    - S1 - teoria/sesja pokazowa/szkolenie sweatbox zakończone egzaminem S1
-   - s2 - teoria/sesja pokazowa/sesje nadzorowane
+   - S2 - teoria/sesja pokazowa/sesje nadzorowane
    - sesje SOLO - egzamin S2 VATEUD, warunki (minimum 10 godzin w 30 dni), remarksy w controller info
    - OTS z mentorem
    - egzamin
@@ -39,9 +39,9 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
    - źródła wiedzy
      - PLVACC policy
      - PLVACC INOP, regulamin szkolenia
-- dokumenty IRL - AIP, 4444, 9432
-3. Omówienie euroscope
-    - połczenie do sweatboxa - scenariusze szkoleniowe
+     - dokumenty rzeczywiste - AIP, 4444, 9432
+3. Omówienie Euroscope
+    - podłączenie do Sweatboxa, scenariusze szkoleniowe
     - klient audio - AfV/TrackAudio
     - podłączenie do sieci
       - mentor/uczeń
@@ -49,6 +49,7 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
       - hoppie code - cpdlc/dcl
       - częstotliwość
       - aktywne pasy
+    - praca na listach, statusy, edycja planu, przydzielanie squawk
     - general settings
     - display settings
     - GRPlugin - okno APP, dep timer, TTT, wind rose, filtrowanie widoczności etykiet
@@ -78,7 +79,11 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
     - niestandardowe odloty
     - odpowiedzialność za separacje na prostej i kontrola prędkości podchodzących a/c
     - koordynacja na VACS/Discord
-    - 
+8. Inne
+   - omówienie pozostałych lotnisk dostępnych w ramach ratingu S2
+   - omówienie roster recency
+   - aktualizacja sektora
+   - ścieżka rozwoju w PLVACC - kolejne ratingi, grupy robocze, zostanie mentorem
 
 
 ## dodatkowe informacje
