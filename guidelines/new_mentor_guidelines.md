@@ -56,6 +56,7 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
 4. Lotnisko EPKK
    - przestrzeń odpowiedzialności - powtórka z zasad obowiązujących w klasie D
    - dostępne rodzaje podejść - ILS/LOC/VOR/RNP/Vis - minima i ograniczenia
+   - wybór aktywnego pasa (analiza metar/taf)
    - współpraca z sąsiadującymi służbami
    - restrykcje kołowania ze względu na rozpiętość skrzydeł a/c
    - próby silników
@@ -63,6 +64,10 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
    - odladzanie
    - operacje wojskowe
    - śmigłowce
+5. Separacje
+   - separacje dla odlatujących statków powietrznych
+   - separacje dla przylatujących statków powietrznych
+   - separacje z uwagi na turbulencję w śladzie aerodynamicznym
 5. Obsługa IFR
    - walidacja planu lotu - trasa, poziom przelotowy
    - EOBT/CTOT, co oznaczają, obowiązki, FLS, VDGS
@@ -81,6 +86,7 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
     - rozpoczęcie/zakończenie sesji (atis, aktywne pasy, .break)
     - go around
     - niestandardowe odloty
+    - start/lądowanie pod prąd
     - odpowiedzialność za separacje na prostej i kontrola prędkości podchodzących a/c
     - koordynacja na VACS/Discord
 8. Inne
