@@ -6,10 +6,12 @@ Poniższy dokument ma na celu ułatwienie nowym Mentorom przeprowadzenie pierwsz
 ## Struktura szkolenia
 
 ### Szkolenie S1
-Szkolenie prowadzone jest zgodnie z Regulaminem Szkoły Kontrolerów PLVACC §9
-1. Szkolenie teoretyczne DEL/GND i wewnętrzny test teoretyczny PLVACC w core - omówienie procedur i zagadnień wymaganych na pozycjach Delivery/Ground
-2. Sesja pokazowa Vatsim - instruktor prowadzi ruch, prezentacja obsługi oprogramowania
-3. Szkolenie Sweatbox, weryfikacja umiejętności ucznia, rekomendacja do awansu S1. Mentor zgłasza do ACCPL2 lub upoważnionej przez niego osoby prośbę o wygenerowanie testu teoretycznego VATEUD S1, oraz informuje o zdaniu testu przez ucznia. ACCPL2 wnioskuje wtedy o przyznanie uczniowi ratingu S1. Przed rozpoczęciem sesji online na Vatsim w ramach szkolenia S2 należy się upewnić, że ranga S1 została przyznana, nie wystarcza tu sam fakt zdanego testu.teoretycznego.
+1. Szkolenie prowadzone jest zgodnie z Regulaminem Szkoły Kontrolerów PLVACC §9
+   - Szkolenie teoretyczne DEL/GND i wewnętrzny test teoretyczny PLVACC w core - omówienie procedur i zagadnień wymaganych na pozycjach Delivery/Ground
+   - Sesja pokazowa Vatsim - instruktor prowadzi ruch, prezentacja obsługi oprogramowania
+   - Szkolenie Sweatbox, weryfikacja umiejętności ucznia, rekomendacja do awansu S1. Mentor zgłasza do ACCPL2 lub upoważnionej przez niego osoby prośbę o wygenerowanie testu teoretycznego VATEUD S1, oraz informuje o zdaniu testu przez ucznia. ACCPL2 wnioskuje wtedy o przyznanie uczniowi ratingu S1. Przed rozpoczęciem sesji online na Vatsim w ramach szkolenia S2 należy się upewnić, że ranga S1 została przyznana, nie wystarcza tu sam fakt zdanego testu.teoretycznego.
+2. Scenariusze sweatbox można pobrać z Core: ATC Resources->Other->Sweatbox scenarios
+3. Mentor może wedle uznania wprowadzić do szkolenia elementy TWR
 
 ### Szkolenie S2
 1. Szkolenie prowadzone jest zgodnie z Regulaminem Szkoły Kontrolerów PLVACC §10
