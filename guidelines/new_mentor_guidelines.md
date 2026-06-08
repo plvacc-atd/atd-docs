@@ -25,8 +25,8 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
 7. Egzamin CPT powinien odbyć się maksymalnie 60 dni po rozpoczęciu przez ucznia sesji SOLO
 8. Analogicznie jak w przypadku awansu na S1 należy przypomnieć uczniowi, że po zdanym egzaminie CPT samodzielne logowanie do sieci na pozycji TWR może nastąpić dopiero po przyznaniu przez VATEUD rangi S2, samo zdanie egzaminu CPT nie wystarczy. Awans przyznawany jest zwykle w przeciągu 1-3 dni.
 
-## Elementy szkolenia
-1. Omówienie przebiegu szkolenia
+## Lista zagadnień do omówienia
+1. Przebieg szkolenia
    - S1 - teoria/sesja pokazowa/szkolenie sweatbox zakończone egzaminem S1
    - S2 - teoria/sesja pokazowa/sesje nadzorowane
    - sesje SOLO - egzamin S2 VATEUD, warunki (minimum 10 godzin w 30 dni), remarksy w controller info
@@ -58,17 +58,21 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
    - dostępne rodzaje podejść - ILS/LOC/VOR/RNP/Vis - minima i ograniczenia
    - współpraca z sąsiadującymi służbami
    - restrykcje kołowania ze względu na rozpiętość skrzydeł a/c
+   - próby silników
+   - lvp
    - odladzanie
    - operacje wojskowe
    - śmigłowce
 5. Obsługa IFR
    - walidacja planu lotu - trasa, poziom przelotowy
    - EOBT/CTOT, co oznaczają, obowiązki, FLS, VDGS
+   - odloty niestandardowe - loty szkolne, stary airac i brak aktualnych punktów wylotowych
    - przydzielanie kodów transpondera, mode S
    - przejście do lotu VFR
 6. Obsługa VFR
    - minima VMC, operacje VFR SPEC
    - punkty VFRowe, oczekiwanie, wlot/opuszczenie CTR
+   - identyfikacja statków powietrznych
    - obsługa ruchu w kręgu
    - operacje HEMS - priorytety, lądowiska, lądowanie w terenie przygodnym
    - niestandardowe requesty pilotów - base training, imitacje, strefy szkolne
