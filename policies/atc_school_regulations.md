@@ -490,7 +490,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     - pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE
     - posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1
 9. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego C1-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1
-10. Dyrektor Szkoły Kontrolerów może przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+10. Dyrektor Szkoły Kontrolerów może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
 11. Mentorem przestaje być osoba która:
     - złożyła rezygnację drogą mailową na adres training@plvacc.pl
     - została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w zwiazku z naruszeniem standardów szkolenia lub społeczności
