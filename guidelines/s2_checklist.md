@@ -2,7 +2,7 @@
 
 ## Przygotowania
 
-1. Przygotuj arkusz na Google Sheets = `Rozmowy Kwalifikacyjne 20XXQX`
+1. Przygotuj arkusz na Google Sheets - `Rozmowy Kwalifikacyjne 20XXQX`
 2. Wyślij email z zaproszeniem na rozmowy
 
             ```
@@ -48,7 +48,7 @@
 2. Wyczyść w Google Sheets arkusz `zgłoszenia rozpatrzone`. Przenieś listę kandydatów zaproszonych na rozmowy do `archiwum zaakceptowanych zgłoszeń`
 3. Discord:
    1. Wyczyść rangę `ATC Candidate`
-   2. Dodaj rangę `@Polish VACC Controller` i `Student ATC` (naszą PLVACCową, jaśniejszy zielony kolor) zaakceptowanym kandydatom
+   2. Dodaj rangę `Polish VACC Controller` i `Student ATC` (naszą PLVACCową, jaśniejszy zielony kolor) zaakceptowanym kandydatom
    3. Wyczyść `rozmowy-kwalifikacyjne/#ogłoszenia`
    4. Ogłoś wyniki rekrutacji na `szkoła kontrolerów/#ogólny`, np:
       ```
