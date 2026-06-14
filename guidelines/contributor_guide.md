@@ -11,10 +11,9 @@ Jeśli nie posiadasz jeszcze konta, musisz je utworzyć:
 3. Wpisz swój adres e-mail, utwórz hasło oraz wybierz nazwę użytkownika.
 4. Potwierdź rejestrację, przepisując kod przesłany na Twój e-mail.
 
-## Krok 2: Przejście do bazy wiedzy
-1. Zaloguj się na swoje konto GitHub (jeśli nie stało się to automatycznie).
-2. Przejdź na stronę główną organizacji [PLVACC-ATD](https://github.com/plvacc-atd).
-3. Dołącz do zespołu Contributors
+## Krok 2: Dostęp do bazy wiedzy
+1. Wyślij prośbę o dodanie do zespołu *Contributors* mailowo na training@plvacc.pl. W treści podaj swoją nazwę użytkownika na GitHub lub email powiązany z kontem. 
+2. W odpowiedzi dostaniesz link z zaproszeniem
 
 ## Krok 3: Edycja istniejącego dokumentu lub dodanie nowego
 
