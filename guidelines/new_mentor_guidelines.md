@@ -53,6 +53,7 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
     - general settings
     - display settings
     - GRPlugin - okno APP, dep timer, TTT, wind rose, filtrowanie widoczności etykiet
+    - korzystanie z aliasów przy komunikacji tekstowej
 4. Lotnisko EPKK
    - przestrzeń odpowiedzialności - powtórka z zasad obowiązujących w klasie D
    - dostępne rodzaje podejść - ILS/LOC/VOR/RNP/Vis - minima i ograniczenia
