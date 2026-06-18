@@ -19,8 +19,9 @@
 2. Proceduralna służba kontroli zbliżania
    - meldunki pozycyjne
    - minimalne wysokości lotu - MSA/AMA
-   - kontrola prędkości w środowisku proceduralnym
-       - reduce/increase speed to reach FIX at time (or later/earlier)
+   - kontrola prędkości/wysokości w środowisku proceduralnym
+       - reduce/increase speed to reach FIX at time XX (or later/earlier)
+       - climb/descend FLXXX to reach at time XX (or later/earlier)
    - SID/STAR
        - w oparciu o klasyczną nawigację
        - w oparciu o RNP
