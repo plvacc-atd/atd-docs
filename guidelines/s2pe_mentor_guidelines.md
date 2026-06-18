@@ -11,12 +11,18 @@
 
 ## Lista zagadnień do omówienia
 
-1. Przestrzeń odpowiedzialności i zapewniana służba
+1. Euroscope - dodatkowe funkcje wynikające z zapewniania służby kontroli zbliżania
+    - assume/transfer
+    - zezwolenie na podejście
+    - koordynacja elektroniczna z ACC
+    - holdingi
+    - range, .vis i optymalne punkty dla pokrycia całej przestrzeni odpowiedzialności
+2. Przestrzeń odpowiedzialności i zapewniana służba
    - służba kontroli lotniska w CTR (+ kontrola radarowa w EPRZ)
    - służba kontroli zbliżania proceduralna w TMA
    - omówienie TMA
    - klasyfikacja przestrzeni powietrznej
-2. Proceduralna służba kontroli zbliżania
+3. Proceduralna służba kontroli zbliżania
    - meldunki pozycyjne
    - minimalne wysokości lotu - MSA/AMA
    - kontrola prędkości/wysokości w środowisku proceduralnym
@@ -38,13 +44,13 @@
    - holdingi - rodzaje, dostępne poziomy, sposoby wejścia w holding w zależności od kierunku dolotu
    - poziom/wysokość/warstwa przejściowa
    - "nieoperacyjne" wykorzystywanie zobrazowania radarowego
-2. Frazeologia w środowisku proceduralnym
+4. Frazeologia w środowisku proceduralnym
    - meldunki pozycyjne
    - spodziewany czas nad punktem
    - przechwytywanie radiali
    - zezwolenie na wznoszenie/zniżanie na SID/STAR z lub bez przestrzegania restrykcji
    - holding - FLIRT
-3. Separacje
+5. Separacje
     - zasada zachowania ciągłości separacji
     - pionowe
       - kontrola prędkości pionowej
@@ -63,9 +69,9 @@
     - separacja ze statkami powietrznymi oczekującymi w holdingu
     - separacje dla odlatujących statków powietrznych
     - separacje z uwagi na turbulencję w śladzie z punktu widzenia kontroli zbliżania
-5. Koordynacja z ACC
+6. Koordynacja z ACC
    - opóźnianie/przyśpieszanie dolotów
    - koordynacja holdingów na punktach wlotowcyh
    - koordynacja dviertów
-6. Omówienie procedur na pozostałych lotniskach dostępnych w ramach S2-PE
+7. Omówienie procedur na pozostałych lotniskach dostępnych w ramach S2-PE
    
