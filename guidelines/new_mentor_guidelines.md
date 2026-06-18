@@ -92,6 +92,8 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
     - odpowiedzialność za separacje na prostej i kontrola prędkości podchodzących a/c
     - koordynacja na VACS/Discord
 8. Inne
+   - odloty ze skróconego dystansu - zasady
+   - wektorowanie statków powietrznych (przy złamaniu separacji między odlatującym a przylatującym wykonującym go around)
    - omówienie pozostałych lotnisk dostępnych w ramach ratingu S2
    - omówienie roster recency
    - aktualizacja sektora
