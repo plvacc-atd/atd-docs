@@ -68,6 +68,7 @@
         - separacje przy wykorzystaniu DME
     - separacja ze statkami powietrznymi oczekującymi w holdingu
     - separacje dla odlatujących statków powietrznych
+    - separacje między przylatującymi a odlatującymi statkami powietrznymi
     - separacje z uwagi na turbulencję w śladzie z punktu widzenia kontroli zbliżania
 6. Koordynacja z ACC
    - opóźnianie/przyśpieszanie dolotów
