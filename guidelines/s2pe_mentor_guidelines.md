@@ -31,7 +31,10 @@
        - czynniki i kryteria doboru procedury podejścia do lądowania
        - stosowanie niestandardowych procedur po nieudanym podejściu w zależności od sytuacji ruchowej
        - podejście z widocznością w locie IFR - zasady
-   - expected Approach Time - jak wyliczyć, kiedy podawać
+         - może być zarządane przez załogę lub zaproponowane przez KRL
+         - starczy, że pilot widzi teren (nie musi widzieć lotniska/pasa)
+         - pułap chmur jest na lub powyżej wysokości podejścia początkowego lub pilot zgłasza, że warunki są wystarczająco dobre do wykonania visuala i wylądowania
+   - Expected Approach Time - jak wyliczyć, kiedy podawać
    - holdingi - rodzaje, dostępne poziomy, sposoby wejścia w holding w zależności od kierunku dolotu
    - poziom/wysokość/warstwa przejściowa
    - "nieoperacyjne" wykorzystywanie zobrazowania radarowego
@@ -64,5 +67,5 @@
    - opóźnianie/przyśpieszanie dolotów
    - koordynacja holdingów na punktach wlotowcyh
    - koordynacja dviertów
-6. Omówienie procedur na pozostałych lotniskach dostępnych w ramach S2PE
+6. Omówienie procedur na pozostałych lotniskach dostępnych w ramach S2-PE
    
