@@ -23,7 +23,8 @@
    - omówienie TMA
    - klasyfikacja przestrzeni powietrznej
 3. Proceduralna służba kontroli zbliżania
-   - meldunki pozycyjne
+   - meldunki pozycyjne (report reaching/report crossing/report ... miles inbound)
+   - przekazanie informacji pogodowej przy pierwszym kontakcie
    - minimalne wysokości lotu - MSA/AMA
    - kontrola prędkości/wysokości w środowisku proceduralnym
        - reduce/increase speed to reach FIX at time XX (or later/earlier)
@@ -45,10 +46,10 @@
    - poziom/wysokość/warstwa przejściowa
    - "nieoperacyjne" wykorzystywanie zobrazowania radarowego
 4. Frazeologia w środowisku proceduralnym
-   - meldunki pozycyjne
+   - meldunki pozycyjne (report reaching/report crossing/report ... miles inbound)
    - spodziewany czas nad punktem
    - przechwytywanie radiali
-   - zezwolenie na wznoszenie/zniżanie na SID/STAR z lub bez przestrzegania restrykcji
+   - zezwolenie SID/STAR z lub bez przestrzegania restrykcji prędkości i wysokości
    - holding - FLIRT
 5. Separacje
     - zasada zachowania ciągłości separacji
