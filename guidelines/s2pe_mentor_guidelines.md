@@ -37,7 +37,7 @@
        - czynniki i kryteria doboru procedury podejścia do lądowania
        - stosowanie niestandardowych procedur po nieudanym podejściu w zależności od sytuacji ruchowej
        - podejście z widocznością w locie IFR - zasady
-         - może być zarządane przez załogę lub zaproponowane przez KRL
+         - może być zażądane przez załogę lub zaproponowane przez KRL
          - starczy, że pilot widzi teren (nie musi widzieć lotniska/pasa)
          - pułap chmur jest na lub powyżej wysokości podejścia początkowego lub pilot zgłasza, że warunki są wystarczająco dobre do wykonania visuala i wylądowania
    - Expected Approach Time - jak wyliczyć, kiedy podawać
