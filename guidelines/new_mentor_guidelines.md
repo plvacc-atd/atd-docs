@@ -57,6 +57,7 @@ Poniższy dokument ma na celu ułatwienie nowym mentorom przeprowadzenie pierwsz
 4. Lotnisko EPKK
    - przestrzeń odpowiedzialności - powtórka z zasad obowiązujących w klasie D
    - dostępne rodzaje podejść - ILS/LOC/VOR/RNP/Vis - minima i ograniczenia
+   - podejście z okrążeniem/circle to land
    - wybór aktywnego pasa (analiza metar/taf)
    - współpraca z sąsiadującymi służbami
    - restrykcje kołowania ze względu na rozpiętość skrzydeł a/c
