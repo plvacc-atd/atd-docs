@@ -31,7 +31,7 @@
    - SID/STAR
        - w oparciu o klasyczną nawigację
        - w oparciu o RNP
-       - różnica między RNAV a RNP
+         - różnica między RNAV (środowisko radarowe) a RNP (środowisko proceduralne)
          - wymagane wyposażenie nawigacyjne do wykonania lotu wg RNP a dostępne rodzaje spearacji
    - omówienie dostępnych procedur podejścia do lądowania
        - czynniki i kryteria doboru procedury podejścia do lądowania
