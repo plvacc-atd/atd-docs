@@ -83,18 +83,18 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     3. spełnia wymagania VATSIM dotyczące minimalnego wieku oraz posiadania konta
        użytkownika;
     4. dołączył do serwera Discord PLVACC
-    4. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
-    5. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
-    6. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer
+    5. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
+    6. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
+    7. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer
        („XX_OBS”, gdzie „XX” oznacza inicjały), odbytych w okresach, w których zapewniana
        jest obsada ATC w vFIR Warszawa, w sposób umożliwiający rzeczywistą obserwację
        pracy kontrolerów PLVACC; aktywność polegająca wyłącznie na utrzymywaniu
        połączenia z siecią bez prowadzenia obserwacji nie jest uwzględniana przy ocenie
        spełnienia niniejszego wymogu;
-    7. potrafi obsługiwać i skonfigurować oprogramowanie wykorzystywane w PLVACC do
+    8. potrafi obsługiwać i skonfigurować oprogramowanie wykorzystywane w PLVACC do
        prowadzenia kontroli, w szczególności EuroScope oraz TrackAudio (lub inne narzędzia
        wskazane przez PLVACC);
-    8. zaliczył test teoretyczny obejmujący wiedzę dotyczącą kontroli ruchu lotniczego oraz
+    9. zaliczył test teoretyczny obejmujący wiedzę dotyczącą kontroli ruchu lotniczego oraz
        procedur lokalnych z wynikiem co najmniej 80% poprawnych odpowiedzi.
 2. Zgłoszenia na szkolenie dokonuje się poprzez formularz zgłoszeniowy dostępny na stronie
    internetowej PLVACC.
@@ -474,40 +474,41 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 ### §18 Mentorzy
 
 1. Mentorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
-    - wyraziła chęć pełnienia funkcji mentora mailowo na adres training@plvacc.pl
-    - posiada co najmniej rangę S2 i jest aktywnym kontrolerem, tzn. jest wpisany w roster
-    - została zaakceptowana przez Dyrektora Szkoły Kontrolerów
-    - uczestniczyła w sesji wprowadzającej z Dyrektorem Szkoły Kontrolerów lub upoważnionym przez niego członkiem Szkoły Kontrolerów
+    1. wyraziła chęć pełnienia funkcji mentora mailowo na adres training@plvacc.pl
+    2. posiada co najmniej rangę S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
+    3. została zaakceptowana przez Dyrektora Szkoły Kontrolerów
+    4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkoły Kontrolerów lub upoważnionym przez niego członkiem Szkoły Kontrolerów
 2. Pełnienie funkcji mentora ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej
 3. Mentor jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9
 4. Nowo powołany mentor uprawniony jest do prowadzenia szkoleń wyłącznie na rating S2
 5. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnień lokalnych S2-PE i S2-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2
-6. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu S3 jeżeli spełnia łącznie następujące warunki:
-    - pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE
-    - posiada co najmniej 50 godzin doświadczenia jako kontroler w randze S3
+6. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu S3, jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze S3
 7. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego S3-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3
-8. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu C1 jeżeli spełnia łącznie następujące warunki:
-    - pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE
-    - posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1
+8. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu C1, jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1
 9. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego C1-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1
 10. Dyrektor Szkoły Kontrolerów może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
 11. Mentorem przestaje być osoba która:
-    - złożyła rezygnację drogą mailową na adres training@plvacc.pl
-    - została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia lub społeczności
+    1. złożyła rezygnację drogą mailową na adres training@plvacc.pl
+    2. została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności
 12. W przypadku ponownego uzyskania statusu mentora przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń
 
 ### §19 Egzaminatorzy
 
 1. Egzaminatorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
-    - posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
-    - posiada doświadczenie mentorskie w ramach ratingów, dla których będzie przeprowadzać egzaminy
-    - uzyska rekomendację aktywnego egzaminatora i została zaakceptowana przez Dyrektora Szkoły Kontrolerów
+    1. posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
+    2. posiada doświadczenie mentorskie w ramach ratingów, dla których będzie przeprowadzać egzaminy
+    3. uzyska rekomendację aktywnego egzaminatora i zostanie zaakceptowana przez Dyrektora Szkoły Kontrolerów
 2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych
 3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego egzaminatora
-4. Egzaminatorem przestaje być osoba która:
-    - złożyła rezygnację drogą mailową na adres training@plvacc.pl
-    - została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności
-5. Egzaminator stosuje się do VATEUD CPT guidelines oraz lokalnych procedur egzaminacyjnych
+4. Dyrektor Szkoły Kontrolerów może w szczególnych okolicznościach przyznać egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.ii
+5. Egzaminatorem przestaje być osoba która:
+    1. złożyła rezygnację drogą mailową na adres training@plvacc.pl
+    2. została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności
+6. Egzaminator stosuje się do VATEUD CPT guidelines oraz lokalnych procedur egzaminacyjnych
 
 ### §20 Wznowienia
 
