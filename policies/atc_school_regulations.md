@@ -476,8 +476,8 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 1. Mentorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
     1. wyraziła chęć pełnienia funkcji mentora mailowo na adres training@plvacc.pl
     2. posiada co najmniej rangę S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
-    3. została zaakceptowana przez Dyrektora Szkoły Kontrolerów
-    4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkoły Kontrolerów lub upoważnionym przez niego członkiem Szkoły Kontrolerów
+    3. została zaakceptowana przez Dyrektora Szkolenia ATC (ATD)
+    4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkolenia ATC (ATD) lub upoważnionym przez niego członkiem Szkoły Kontrolerów
 2. Pełnienie funkcji mentora ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej
 3. Mentor jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9
 4. Nowo powołany mentor uprawniony jest do prowadzenia szkoleń wyłącznie na rating S2
@@ -490,10 +490,10 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1
 9. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego C1-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1
-10. Dyrektor Szkoły Kontrolerów może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
-11. Mentorem przestaje być osoba która:
+10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+11. Mentorem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl
-    2. została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności
+    2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności
 12. W przypadku ponownego uzyskania statusu mentora przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń
 
 ### §19 Egzaminatorzy
@@ -501,13 +501,13 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 1. Egzaminatorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
     1. posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
     2. posiada doświadczenie mentorskie w ramach ratingów, dla których będzie przeprowadzać egzaminy
-    3. uzyska rekomendację aktywnego egzaminatora i zostanie zaakceptowana przez Dyrektora Szkoły Kontrolerów
+    3. uzyska rekomendację aktywnego egzaminatora i zostanie zaakceptowana przez Dyrektora Szkolenia ATC (ATD)
 2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych
 3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego egzaminatora
-4. Dyrektor Szkoły Kontrolerów może w szczególnych okolicznościach przyznać egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.ii
-5. Egzaminatorem przestaje być osoba która:
+4. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.ii
+5. Egzaminatorem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl
-    2. została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności
+    2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności
 6. Egzaminator stosuje się do VATEUD CPT guidelines oraz lokalnych procedur egzaminacyjnych
 
 ### §20 Wznowienia
@@ -532,7 +532,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
    w PLVACC.
 
 ### §22 Postanowienia końcowe
-1. Niniejszy regulamin wchodzi w życie z dniem 26.03.2026. Do szkoleń rozpoczętych
+1. Niniejszy regulamin wchodzi w życie z dniem 01.07.2026. Do szkoleń rozpoczętych
    i niezakończonych przed wejściem w życie regulaminu stosuje się przepisy dotychczasowe.
 2. Za nadzór nad stosowaniem niniejszego regulaminu oraz jego aktualizację odpowiada
    Dyrektor Szkolenia ATC (ATD).
