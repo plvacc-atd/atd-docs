@@ -82,7 +82,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     2. jest przypisany do PLVACC jako macierzysty vACC (home vACC);
     3. spełnia wymagania VATSIM dotyczące minimalnego wieku oraz posiadania konta
        użytkownika;
-    4. dołączył do serwera discord PLVACC
+    4. dołączył do serwera Discord PLVACC
     4. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
     5. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
     6. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer
@@ -471,7 +471,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
    do obejmowania wszystkich pozycji typu _CTR, w tym pozycji EPWW_ALL_CTR i
    EPWW_ALH_CTR, a także pozycji EPWW_I_CTR, w zakresie określonym przez PLVACC.
 
-## §18 Mentorzy
+### §18 Mentorzy
 
 1. Mentorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
     - wyraziła chęć pełnienia funkcji mentora mailowo na adres training@plvacc.pl
@@ -493,24 +493,27 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 10. Dyrektor Szkoły Kontrolerów może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
 11. Mentorem przestaje być osoba która:
     - złożyła rezygnację drogą mailową na adres training@plvacc.pl
-    - została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w zwiazku z naruszeniem standardów szkolenia lub społeczności
+    - została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia lub społeczności
 12. W przypadku ponownego uzyskania statusu mentora przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń
 
-## §19 Egzaminatorzy
+### §19 Egzaminatorzy
 
 1. Egzaminatorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
-    - posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisany w roster
+    - posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
     - posiada doświadczenie mentorskie w ramach ratingów, dla których będzie przeprowadzać egzaminy
     - uzyska rekomendację aktywnego egzaminatora i została zaakceptowana przez Dyrektora Szkoły Kontrolerów
 2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych
 3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego egzaminatora
-4. Dyrektor Szkoły Kontrolerów może przyznać
-4. Egzaminator stosuje się do VATEUD CPT guidelines oraz lokalnych procedur egzaminacyjnych
+4. Egzaminatorem przestaje być osoba która:
+    - złożyła rezygnację drogą mailową na adres training@plvacc.pl
+    - została odwołana ze stanowiska przez Dyrektora Szkoły Kontrolerów w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności
+5. Egzaminator stosuje się do VATEUD CPT guidelines oraz lokalnych procedur egzaminacyjnych
 
-## §20 Wznowienia
+### §20 Wznowienia
 
 1. Wznowienia prowadzone są zgodnie z wytycznymi VATEUD Training Policy
-2. Akceptacja podań o wznowienia i lista oczekiwania opiera się o bieżącą aktywność użytkownika w sieci
+2. Podanie o wznowienie razem z uzasadnieniem należy wysyłać mailowo na adres training.plvacc.pl
+3. Akceptacja podań o wznowienia i lista oczekiwania opiera się o bieżącą aktywność użytkownika w sieci
 
 ### §21 Visiting Controller
 1. PLVACC dopuszcza możliwość pełnienia służby w charakterze Visiting Controller przez
