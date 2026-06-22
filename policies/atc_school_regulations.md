@@ -77,24 +77,24 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     gotowości Ucznia do odbywania sesji SOLO TRAINING;
 
 ### §4 Zgłoszenia, kwalifikacja i organizacja szkolenia
-1. Do przystąpienia do szkolenia prowadzonego w ramach Szkoły Kontrolerów PLVACC zgłosić
-   może się każdy członek sieci VATSIM, który spełnia łącznie następujące warunki:
-   1 zapoznał się z aktualnym regulaminem Szkoły Kontrolerów PLVACC;
+1. Zgłoszenie na szkolenie prowadzone w ramach Szkoły Kontrolerów PLVACC może wysłać każdy członek sieci VATSIM, który w momencie aplikacji spełnia łącznie następujące warunki:
+    1. zapoznał się z aktualnym regulaminem Szkoły Kontrolerów PLVACC;
     2. jest przypisany do PLVACC jako macierzysty vACC (home vACC);
     3. spełnia wymagania VATSIM dotyczące minimalnego wieku oraz posiadania konta
        użytkownika;
-    4. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
-    5. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
-    6. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer
+    4. dołączył do serwera Discord PLVACC
+    5. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
+    6. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
+    7. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer
        („XX_OBS”, gdzie „XX” oznacza inicjały), odbytych w okresach, w których zapewniana
        jest obsada ATC w vFIR Warszawa, w sposób umożliwiający rzeczywistą obserwację
        pracy kontrolerów PLVACC; aktywność polegająca wyłącznie na utrzymywaniu
        połączenia z siecią bez prowadzenia obserwacji nie jest uwzględniana przy ocenie
        spełnienia niniejszego wymogu;
-    7. potrafi obsługiwać i skonfigurować oprogramowanie wykorzystywane w PLVACC do
+    8. potrafi obsługiwać i skonfigurować oprogramowanie wykorzystywane w PLVACC do
        prowadzenia kontroli, w szczególności EuroScope oraz TrackAudio (lub inne narzędzia
        wskazane przez PLVACC);
-    8. zaliczył test teoretyczny obejmujący wiedzę dotyczącą kontroli ruchu lotniczego oraz
+    9. zaliczył test teoretyczny obejmujący wiedzę dotyczącą kontroli ruchu lotniczego oraz
        procedur lokalnych z wynikiem co najmniej 80% poprawnych odpowiedzi.
 2. Zgłoszenia na szkolenie dokonuje się poprzez formularz zgłoszeniowy dostępny na stronie
    internetowej PLVACC.
@@ -471,7 +471,52 @@ Ilekroć w niniejszym regulaminie mowa jest o:
    do obejmowania wszystkich pozycji typu _CTR, w tym pozycji EPWW_ALL_CTR i
    EPWW_ALH_CTR, a także pozycji EPWW_I_CTR, w zakresie określonym przez PLVACC.
 
-### §18 Visiting Controller
+### §18 Mentorzy
+
+1. Mentorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
+    1. wyraziła chęć pełnienia funkcji mentora mailowo na adres training@plvacc.pl
+    2. posiada co najmniej rangę S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
+    3. została zaakceptowana przez Dyrektora Szkolenia ATC (ATD)
+    4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkolenia ATC (ATD) lub upoważnionym przez niego członkiem Szkoły Kontrolerów
+2. Pełnienie funkcji mentora ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej
+3. Mentor jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9
+4. Nowo powołany mentor uprawniony jest do prowadzenia szkoleń wyłącznie na rating S2
+5. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnień lokalnych S2-PE i S2-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2
+6. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu S3, jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze S3
+7. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego S3-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3
+8. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu C1, jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1
+9. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego C1-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1
+10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+11. Mentorem przestaje być osoba, która:
+    1. złożyła rezygnację drogą mailową na adres training@plvacc.pl
+    2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności
+12. W przypadku ponownego uzyskania statusu mentora przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń
+
+### §19 Egzaminatorzy
+
+1. Egzaminatorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
+    1. posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster
+    2. posiada doświadczenie mentorskie w ramach ratingów, dla których będzie przeprowadzać egzaminy
+    3. uzyska rekomendację aktywnego egzaminatora i zostanie zaakceptowana przez Dyrektora Szkolenia ATC (ATD)
+2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych
+3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego egzaminatora
+4. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.ii
+5. Egzaminatorem przestaje być osoba, która:
+    1. złożyła rezygnację drogą mailową na adres training@plvacc.pl
+    2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności
+6. Egzaminator stosuje się do VATEUD CPT guidelines oraz lokalnych procedur egzaminacyjnych
+
+### §20 Wznowienia
+
+1. Wznowienia prowadzone są zgodnie z wytycznymi VATEUD Training Policy
+2. Podanie o wznowienie razem z uzasadnieniem należy wysyłać mailowo na adres training.plvacc.pl
+3. Akceptacja podań o wznowienia i lista oczekiwania opiera się o bieżącą aktywność użytkownika w sieci
+
+### §21 Visiting Controller
 1. PLVACC dopuszcza możliwość pełnienia służby w charakterze Visiting Controller przez
    kontrolerów spełniających łącznie następujące warunki:
    a. posiadanie ratingu VATSIM C1 lub wyższego;
@@ -486,8 +531,8 @@ Ilekroć w niniejszym regulaminie mowa jest o:
    przeprowadzanej przez Egzaminatora, skutkującej nadaniem uprawnienia Visiting Controller
    w PLVACC.
 
-### §19 Postanowienia końcowe
-1. Niniejszy regulamin wchodzi w życie z dniem 26.03.2026. Do szkoleń rozpoczętych
+### §22 Postanowienia końcowe
+1. Niniejszy regulamin wchodzi w życie z dniem 01.07.2026. Do szkoleń rozpoczętych
    i niezakończonych przed wejściem w życie regulaminu stosuje się przepisy dotychczasowe.
 2. Za nadzór nad stosowaniem niniejszego regulaminu oraz jego aktualizację odpowiada
    Dyrektor Szkolenia ATC (ATD).
