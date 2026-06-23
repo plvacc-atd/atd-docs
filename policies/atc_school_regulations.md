@@ -480,16 +480,16 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkolenia ATC (ATD) lub upoważnionym przez niego członkiem Szkoły Kontrolerów.
 2. Pełnienie funkcji mentora ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
 3. Mentor jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9.
-4. Nowo powołany mentor uprawniony jest do prowadzenia szkoleń wyłącznie na rating S2.
-5. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnień lokalnych S2-PE i S2-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
-6. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu S3, jeżeli spełnia łącznie następujące warunki:
+4. Nowo powołany mentor uprawniony jest wyłącznie do prowadzenia szkoleń [S2].
+5. Mentor nabywa uprawnienia do prowadzenia szkoleń [S2-PE] i [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
+6. Mentor nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze S3.
-7. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego S3-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
-8. Mentor nabywa uprawnienia do prowadzenia szkoleń do ratingu C1, jeżeli spełnia łącznie następujące warunki:
+7. Mentor nabywa uprawnienia do prowadzenia szkoleń [S3-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
+8. Mentor nabywa uprawnienia do prowadzenia szkoleń [C1], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1.
-9. Mentor nabywa uprawnienia do prowadzenia szkoleń do uprawnienia lokalnego C1-CE po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
+9. Mentor nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
 10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
 11. Mentorem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
@@ -513,7 +513,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 ### §20 Wznowienia
 
 1. Wznowienia prowadzone są zgodnie z wytycznymi VATEUD Training Policy.
-2. Podanie o wznowienie razem z uzasadnieniem należy wysyłać mailowo na adres training.plvacc.pl.
+2. Podanie o wznowienie razem z uzasadnieniem należy wysyłać mailowo na adres training@plvacc.pl.
 3. Akceptacja podań o wznowienia i lista oczekiwania opiera się o bieżącą aktywność użytkownika w sieci.
 
 ### §21 Visiting Controller
