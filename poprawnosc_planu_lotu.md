@@ -73,8 +73,8 @@ Punkt, w którym planowane jest rozpoczęcie zmiany prędkości (o 5% TAS lub 0,
 poziomu, oznacza sie w nastepujący sposób np. MAY/N0305F180, HADDY/N0420F330.
 
 Punkt, w którym jest planowana zmiana przepisów wykonywania lotu, oznacza się stosując odstęp oraz jeden z następujących skrótów:
-- VFR — gdy ma nastąpić zmiana z IFR na VFR np. KK659 VFR,
-- IFR — gdy ma nastąpić zmiana z VFR na IFR np. OFFUK IFR.
+- VFR — gdy ma nastąpić zmiana z IFR na VFR np. KAK VFR,
+- IFR — gdy ma nastąpić zmiana z VFR na IFR np. MULZA IFR.
 
 Warto również wspomnieć o wskażniku STAY. Służy wpisaniu do planu lotu opóźnień wynikających z innych działań w locie np.: krąg nadlotniskowy, zrzut skoczków spadochronowych oraz wiele innych. Pawidłowy zapis wygląda następująco Route: EPKKB STAY1/0020 EPKKB, w sekcji Remarks: STAYINFO1/BIRD PHOTOGRAPHY. Oznacza to opóźnienie trwające 20 minut zaczynające się i kończące się w punkcjie BRAVO lotniska Kraków Balice, w polu remarks możemy doczytać że opóźnienie wynika z fotografowania ptaków.
 
