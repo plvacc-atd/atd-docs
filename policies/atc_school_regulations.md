@@ -197,20 +197,21 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 
 ### §8 Program szkolenia
 1. Szkolenie w Szkole Kontrolerów PLVACC prowadzone jest w ramach następujących szkoleń:
-    1. SZKOLENIE KONTROLERA PRAKTYKANTA – [S1];
-    2. SZKOLENIE KONTROLERA WIEŻOWEGO – [S2];
-    3. SZKOLENIE S2 PROCEDURAL ENDORSEMENT – [S2-PE];
-    4. SZKOLENIE S2 CHOPIN ENDORSEMENT – [S2-CE];
-    5. SZKOLENIE KONTROLERA ZBLIŻANIA – [S3];
-    6. SZKOLENIE S3 CHOPIN ENDORSEMENT – [S3-CE];
-    7. SZKOLENIE KONTROLERA OBSZARU – [C1];
-    8. SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE].
+    a. SZKOLENIE KONTROLERA PRAKTYKANTA – [S1];
+    b. SZKOLENIE KONTROLERA WIEŻOWEGO – [S2];
+    c. SZKOLENIE S2 PROCEDURAL ENDORSEMENT – [S2-PE];
+    d. SZKOLENIE S2 CHOPIN ENDORSEMENT – [S2-CE];
+    e. SZKOLENIE KONTROLERA ZBLIŻANIA – [S3];
+    f. SZKOLENIE S3 CHOPIN ENDORSEMENT – [S3-CE];
+    g. SZKOLENIE KONTROLERA OBSZARU – [C1];
+    h. SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE].
 2. Szkolenia, o których mowa w ust. 1 lit. b, e oraz g, kończą się egzaminem (CPT) w celu
    uzyskania odpowiednio ratingu VATSIM S2, S3 albo C1.
 3. Szkolenia, o których mowa w ust. 1 lit. c, d, f oraz h, kończą się sesją OTS w celu uzyskania
    odpowiedniego uprawnienia lokalnego PLVACC.
 4. Szczegółowe wymagania, zakres oraz warunki zaliczenia poszczególnych szkoleń określają
    dalsze paragrafy regulaminu.
+5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz mentor przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie Szkoła Kontrolerów - Training Room X, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesji szkoleniowych powinno być ograniczone.
 
 ### §9 Szkolenie kontrolera praktykanta – [S1]
 1. Po pozytywnym wyniku rozmowy kwalifikacyjnej Kandydatowi przydzielany jest Opiekun,
@@ -490,11 +491,12 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1.
 9. Mentor nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
-10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
-11. Mentorem przestaje być osoba, która:
+10. Obowiązkiem mentora jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę mentora wydłużyć ten termin w szczególnych przypadkach.
+11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+12. Mentorem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności.
-12. W przypadku ponownego uzyskania statusu mentora przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
+13. W przypadku ponownego uzyskania statusu mentora przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
 
 ### §19 Egzaminatorzy
 
