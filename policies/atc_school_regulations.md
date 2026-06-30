@@ -47,7 +47,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
    wniosek o rozpoczęcie szkolenia w ramach Szkoły Kontrolerów PLVACC;
 5. **Uczeń** – należy przez to rozumieć osobę uczestniczącą w szkoleniu w ramach Szkoły
    Kontrolerów PLVACC;
-6. **Opiekun** – należy przez to rozumieć osobę prowadzącą szkolenie Ucznia w ramach PLVACC;
+6. **Opiekun** lub **Mentor** – należy przez to rozumieć osobę prowadzącą szkolenie Ucznia w ramach PLVACC;
 7. **Egzaminator** – należy przez to rozumieć osobę uprawnioną do przeprowadzania egzaminów
    (CPT) oraz sesji OTS w ramach PLVACC;
 8. **Rating VATSIM** – należy przez to rozumieć poziom uprawnień kontrolera nadawany zgodnie
@@ -74,7 +74,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 15. **SOLO TRAINING** – należy przez to rozumieć sesję treningową bez bezpośredniego nadzoru
     Opiekuna w trakcie szkolenia na rating S2, S3 lub C1, podczas której Uczeń może samodzielnie
     obejmować pozycję w celu samokształcenia, po uprzednim zgłoszeniu przez Opiekuna
-    gotowości Ucznia do odbywania sesji SOLO TRAINING;
+    gotowości Ucznia do odbywania sesji SOLO TRAINING.
 
 ### §4 Zgłoszenia, kwalifikacja i organizacja szkolenia
 1. Zgłoszenie na szkolenie prowadzone w ramach Szkoły Kontrolerów PLVACC może wysłać każdy członek sieci VATSIM, który w momencie aplikacji spełnia łącznie następujące warunki:
@@ -116,9 +116,8 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 10. Dopuszczenie Ucznia do:
     1. egzaminu (CPT) na rating VATSIM;
     2. sesji OTS w celu uzyskania uprawnienia lokalnego (PE/CE);
-    3. odbywania sesji SOLO TRAINING.
-       następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami określonymi
-       w niniejszym regulaminie.
+    3. odbywania sesji SOLO TRAINING.<br>
+następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami określonymi w niniejszym regulaminie.
 11. Zasady dotyczące organizacji poszczególnych etapów szkolenia (w tym wymagania wstępne
     oraz szczegółowe warunki zaliczeń) określają dalsze paragrafy regulaminu.
 
@@ -211,7 +210,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
    odpowiedniego uprawnienia lokalnego PLVACC.
 4. Szczegółowe wymagania, zakres oraz warunki zaliczenia poszczególnych szkoleń określają
    dalsze paragrafy regulaminu.
-5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz mentor przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie Szkoła Kontrolerów - Training Room X, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesji szkoleniowych powinno być ograniczone.
+5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz mentor w trakcie sesji szkoleniowych przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie _Szkoła Kontrolerów - Training Room X_, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesjach szkoleniowych powinno być ograniczone.
 
 ### §9 Szkolenie kontrolera praktykanta – [S1]
 1. Po pozytywnym wyniku rozmowy kwalifikacyjnej Kandydatowi przydzielany jest Opiekun,
