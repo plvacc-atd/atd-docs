@@ -197,17 +197,17 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 
 ### §8 Program szkolenia
 1. Szkolenie w Szkole Kontrolerów PLVACC prowadzone jest w ramach następujących szkoleń:
-    a. SZKOLENIE KONTROLERA PRAKTYKANTA – [S1];
-    b. SZKOLENIE KONTROLERA WIEŻOWEGO – [S2];
-    c. SZKOLENIE S2 PROCEDURAL ENDORSEMENT – [S2-PE];
-    d. SZKOLENIE S2 CHOPIN ENDORSEMENT – [S2-CE];
-    e. SZKOLENIE KONTROLERA ZBLIŻANIA – [S3];
-    f. SZKOLENIE S3 CHOPIN ENDORSEMENT – [S3-CE];
-    g. SZKOLENIE KONTROLERA OBSZARU – [C1];
-    h. SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE].
-2. Szkolenia, o których mowa w ust. 1 lit. b, e oraz g, kończą się egzaminem (CPT) w celu
+    1. SZKOLENIE KONTROLERA PRAKTYKANTA – [S1];
+    2. SZKOLENIE KONTROLERA WIEŻOWEGO – [S2];
+    3. SZKOLENIE S2 PROCEDURAL ENDORSEMENT – [S2-PE];
+    4. SZKOLENIE S2 CHOPIN ENDORSEMENT – [S2-CE];
+    5. SZKOLENIE KONTROLERA ZBLIŻANIA – [S3];
+    6. SZKOLENIE S3 CHOPIN ENDORSEMENT – [S3-CE];
+    7. SZKOLENIE KONTROLERA OBSZARU – [C1];
+    8. SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE].
+2. Szkolenia, o których mowa w ust. 1 ppkt 2, 5 oraz 7, kończą się egzaminem (CPT) w celu
    uzyskania odpowiednio ratingu VATSIM S2, S3 albo C1.
-3. Szkolenia, o których mowa w ust. 1 lit. c, d, f oraz h, kończą się sesją OTS w celu uzyskania
+3. Szkolenia, o których mowa w ust. 1 ppkt. 3, 4, 6 oraz 8, kończą się sesją OTS w celu uzyskania
    odpowiedniego uprawnienia lokalnego PLVACC.
 4. Szczegółowe wymagania, zakres oraz warunki zaliczenia poszczególnych szkoleń określają
    dalsze paragrafy regulaminu.
