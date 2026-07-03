@@ -423,7 +423,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     o dalszym toku szkolenia, w tym o jego kontynuowaniu albo zakończeniu, podejmuje Dyrektor
     Szkolenia ATC (ATD).
 
-### §16 SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE]
+### §16 Szkolenie C1 Chopin Endorsement – [C1-CE]
 1. Do rozpoczęcia szkolenia [C1-CE] wymagane jest spełnienie łącznie następujących warunków:
     1. posiadanie ratingu VATSIM C1 przez co najmniej 30 dni;
     2. posiadanie łącznie co najmniej 50 godzin na pozycjach CTR (z wyłączeniem godzin
