@@ -205,9 +205,9 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     6. SZKOLENIE S3 CHOPIN ENDORSEMENT – [S3-CE];
     7. SZKOLENIE KONTROLERA OBSZARU – [C1];
     8. SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE].
-2. Szkolenia, o których mowa w ust. 1 ppkt 2, 5 oraz 7, kończą się egzaminem (CPT) w celu
+2. Szkolenia, o których mowa w ust. 1 ppkt ii, v oraz vii, kończą się egzaminem (CPT) w celu
    uzyskania odpowiednio ratingu VATSIM S2, S3 albo C1.
-3. Szkolenia, o których mowa w ust. 1 ppkt. 3, 4, 6 oraz 8, kończą się sesją OTS w celu uzyskania
+3. Szkolenia, o których mowa w ust. 1 ppkt. iii, iv, vi oraz viii, kończą się sesją OTS w celu uzyskania
    odpowiedniego uprawnienia lokalnego PLVACC.
 4. Szczegółowe wymagania, zakres oraz warunki zaliczenia poszczególnych szkoleń określają
    dalsze paragrafy regulaminu.
