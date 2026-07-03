@@ -210,7 +210,7 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
    odpowiedniego uprawnienia lokalnego PLVACC.
 4. Szczegółowe wymagania, zakres oraz warunki zaliczenia poszczególnych szkoleń określają
    dalsze paragrafy regulaminu.
-5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz opiekun w trakcie sesji szkoleniowych przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie _Szkoła Kontrolerów - Training Room X_, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesjach szkoleniowych powinno być ograniczone.
+5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz Opiekun w trakcie sesji szkoleniowych przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie _Szkoła Kontrolerów - Training Room X_, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesjach szkoleniowych powinno być ograniczone.
 
 ### §9 Szkolenie kontrolera praktykanta – [S1]
 1. Po pozytywnym wyniku rozmowy kwalifikacyjnej Kandydatowi przydzielany jest Opiekun,
@@ -474,13 +474,13 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 ### §18 Opiekunowie
 
 1. Opiekunem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
-    1. wyraziła chęć pełnienia funkcji opiekuna mailowo na adres training@plvacc.pl;
+    1. wyraziła chęć pełnienia funkcji Opiekuna mailowo na adres training@plvacc.pl;
     2. posiada co najmniej rangę S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
     3. została zaakceptowana przez Dyrektora Szkolenia ATC (ATD);
     4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkolenia ATC (ATD) lub upoważnionym przez niego członkiem Szkoły Kontrolerów.
-2. Pełnienie funkcji opiekuna ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
+2. Pełnienie funkcji Opiekuna ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
 3. Opiekun jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9.
-4. Nowo powołany opiekun uprawniony jest wyłącznie do prowadzenia szkoleń [S2].
+4. Nowo powołany Opiekun uprawniony jest wyłącznie do prowadzenia szkoleń [S2].
 5. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S2-PE] i [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
 6. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE;
@@ -490,22 +490,22 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1.
 9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
-10. Obowiązkiem opeikuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę opiekuna wydłużyć ten termin w szczególnych przypadkach.
-11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+10. Obowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
+11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
 12. Opiekunem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności.
-13. W przypadku ponownego uzyskania statusu opiekuna przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
+13. W przypadku ponownego uzyskania statusu Opiekuna przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
 
 ### §19 Egzaminatorzy
 
 1. Egzaminatorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
     1. posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
-    2. posiada doświadczenie jako opiekun w ramach ratingów, dla których będzie przeprowadzać egzaminy;
-    3. uzyska rekomendację aktywnego egzaminatora i zostanie zaakceptowana przez Dyrektora Szkolenia ATC (ATD).
+    2. posiada doświadczenie jako Opiekun w ramach ratingów, dla których będzie przeprowadzać egzaminy;
+    3. uzyska rekomendację aktywnego Egzaminatora i zostanie zaakceptowana przez Dyrektora Szkolenia ATC (ATD).
 2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych.
-3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego egzaminatora.
-4. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.ii.
+3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego Egzaminatora.
+4. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.ii.
 5. Egzaminatorem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności.
