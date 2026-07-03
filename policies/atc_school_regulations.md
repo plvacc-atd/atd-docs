@@ -47,7 +47,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
    wniosek o rozpoczęcie szkolenia w ramach Szkoły Kontrolerów PLVACC;
 5. **Uczeń** – należy przez to rozumieć osobę uczestniczącą w szkoleniu w ramach Szkoły
    Kontrolerów PLVACC;
-6. **Opiekun** lub **Mentor** – należy przez to rozumieć osobę prowadzącą szkolenie Ucznia w ramach PLVACC;
+6. **Opiekun** – należy przez to rozumieć osobę prowadzącą szkolenie Ucznia w ramach PLVACC;
 7. **Egzaminator** – należy przez to rozumieć osobę uprawnioną do przeprowadzania egzaminów
    (CPT) oraz sesji OTS w ramach PLVACC;
 8. **Rating VATSIM** – należy przez to rozumieć poziom uprawnień kontrolera nadawany zgodnie
@@ -210,7 +210,7 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
    odpowiedniego uprawnienia lokalnego PLVACC.
 4. Szczegółowe wymagania, zakres oraz warunki zaliczenia poszczególnych szkoleń określają
    dalsze paragrafy regulaminu.
-5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz mentor w trakcie sesji szkoleniowych przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie _Szkoła Kontrolerów - Training Room X_, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesjach szkoleniowych powinno być ograniczone.
+5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz opiekun w trakcie sesji szkoleniowych przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie _Szkoła Kontrolerów - Training Room X_, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesjach szkoleniowych powinno być ograniczone.
 
 ### §9 Szkolenie kontrolera praktykanta – [S1]
 1. Po pozytywnym wyniku rozmowy kwalifikacyjnej Kandydatowi przydzielany jest Opiekun,
@@ -471,37 +471,37 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
    do obejmowania wszystkich pozycji typu _CTR, w tym pozycji EPWW_ALL_CTR i
    EPWW_ALH_CTR, a także pozycji EPWW_I_CTR, w zakresie określonym przez PLVACC.
 
-### §18 Mentorzy
+### §18 Opiekunowie
 
-1. Mentorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
-    1. wyraziła chęć pełnienia funkcji mentora mailowo na adres training@plvacc.pl;
+1. Opiekunem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
+    1. wyraziła chęć pełnienia funkcji opiekuna mailowo na adres training@plvacc.pl;
     2. posiada co najmniej rangę S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
     3. została zaakceptowana przez Dyrektora Szkolenia ATC (ATD);
     4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkolenia ATC (ATD) lub upoważnionym przez niego członkiem Szkoły Kontrolerów.
-2. Pełnienie funkcji mentora ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
-3. Mentor jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9.
-4. Nowo powołany mentor uprawniony jest wyłącznie do prowadzenia szkoleń [S2].
-5. Mentor nabywa uprawnienia do prowadzenia szkoleń [S2-PE] i [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
-6. Mentor nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
+2. Pełnienie funkcji opiekuna ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
+3. Opiekun jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9.
+4. Nowo powołany opiekun uprawniony jest wyłącznie do prowadzenia szkoleń [S2].
+5. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S2-PE] i [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
+6. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze S3.
-7. Mentor nabywa uprawnienia do prowadzenia szkoleń [S3-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
-8. Mentor nabywa uprawnienia do prowadzenia szkoleń [C1], jeżeli spełnia łącznie następujące warunki:
+7. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
+8. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1.
-9. Mentor nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
-10. Obowiązkiem mentora jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę mentora wydłużyć ten termin w szczególnych przypadkach.
-11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać mentorowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
-12. Mentorem przestaje być osoba, która:
+9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
+10. Obowiązkiem opeikuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę opiekuna wydłużyć ten termin w szczególnych przypadkach.
+11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+12. Opiekunem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności.
-13. W przypadku ponownego uzyskania statusu mentora przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
+13. W przypadku ponownego uzyskania statusu opiekuna przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
 
 ### §19 Egzaminatorzy
 
 1. Egzaminatorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
     1. posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
-    2. posiada doświadczenie mentorskie w ramach ratingów, dla których będzie przeprowadzać egzaminy;
+    2. posiada doświadczenie jako opiekun w ramach ratingów, dla których będzie przeprowadzać egzaminy;
     3. uzyska rekomendację aktywnego egzaminatora i zostanie zaakceptowana przez Dyrektora Szkolenia ATC (ATD).
 2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych.
 3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego egzaminatora.
