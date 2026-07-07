@@ -475,7 +475,7 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 
 1. Opiekunem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
     1. wyraziła chęć pełnienia funkcji Opiekuna mailowo na adres training@plvacc.pl;
-    2. posiada co najmniej rangę S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
+    2. posiada co najmniej rating S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
     3. została zaakceptowana przez Dyrektora Szkolenia ATC (ATD);
     4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkolenia ATC (ATD) lub upoważnionym przez niego członkiem Szkoły Kontrolerów.
 2. Pełnienie funkcji Opiekuna ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
@@ -491,7 +491,7 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1.
 9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
 10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
-1Obowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
+11. bowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
 12. Opiekunem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności.
@@ -505,7 +505,7 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
     3. uzyska rekomendację aktywnego Egzaminatora i zostanie zaakceptowana przez Dyrektora Szkolenia ATC (ATD).
 2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych.
 3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego Egzaminatora.
-4. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.ii.
+4. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.2.
 5. Egzaminatorem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności.
@@ -515,7 +515,6 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 
 1. Wznowienia prowadzone są zgodnie z wytycznymi VATEUD Training Policy.
 2. Podanie o wznowienie razem z uzasadnieniem należy wysyłać mailowo na adres training@plvacc.pl.
-3. Akceptacja podań o wznowienia i lista oczekiwania opiera się o bieżącą aktywność użytkownika w sieci.
 
 ### §21 Visiting Controller
 1. Kandydat Visiting Controller (Visiting Applicant) powinien w trakcie aplikowania posiadać wymaganą wiedzę z ogólnych zagadnień kontroli ruchu lotniczego w zakresie wnioskowanego ratingu, a wdrożenie powinno obejmować jedynie zaznajomienie z sektorem i procedurami lokalnymi.
