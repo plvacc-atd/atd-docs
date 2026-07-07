@@ -36,7 +36,7 @@
     3. dokumenty PLVACC, w tym vFIR Warszawa Operations Manual oraz Polish VACC
        Policy.
 
-### 3§ Definicje
+### §3 Definicje
 Ilekroć w niniejszym regulaminie mowa jest o:
 1. **VATSIM** – należy przez to rozumieć sieć _Virtual Air Traffic Simulation Network_;
 2. **PLVACC** – należy przez to rozumieć _Polish vACC_ działające w ramach VATSIM;
