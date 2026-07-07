@@ -490,8 +490,8 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1.
 9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
-10. Obowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
-11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+1Obowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
 12. Opiekunem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności.
