@@ -520,12 +520,9 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 ### §21 Visiting Controller
 1. PLVACC dopuszcza możliwość pełnienia służby w charakterze Visiting Controller przez
    kontrolerów spełniających łącznie następujące warunki:
-   a. posiadanie ratingu VATSIM C1 lub wyższego;
-   b. posiadanie co najmniej 200 godzin aktywności w sieci VATSIM w roli kontrolera,
-   po uzyskaniu ratingu C1;
-   c. uzyskanie rekomendacji z macierzystego VACC wydanej przez osobę odpowiedzialną
-   za prowadzenie lokalnej szkoły ATC;
-   d. zapoznał się z dokumentem vFIR Warszawa Operations Manual.
+   1. Spełnia wymagania zawarte w Vatsim Transfer and Visiting Controller Policy
+   2. Spełnia wymagania zawarte w VATEUD Division Policy
+   3. zapoznał się z dokumentem vFIR Warszawa Operations Manual.
 2. Zakres oraz przebieg przygotowania teoretycznego i praktycznego Visiting Controller ustalany
    jest indywidualnie przez Dyrektora Szkolenia ATC (ATD).
 3. Warunkiem dopuszczenia do pełnienia służby jako Visiting Controller jest zaliczenie sesji OTS
