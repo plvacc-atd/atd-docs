@@ -518,11 +518,11 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 3. Akceptacja podań o wznowienia i lista oczekiwania opiera się o bieżącą aktywność użytkownika w sieci.
 
 ### §21 Visiting Controller
-1. Proces wdrożenia Visiting Controllera polega na zapoznaniu z lokalnymi procedurami, a nie szkoleniu w ramach wnioskowanego ratingu. Kandydat powinien w trakcie aplikowania posiadać wymaganą wiedzę z ogólnych zagadnień kontroli ruchu lotniczego w zakresie posiadanego ratingu.
+1. Proces wdrożenia Visiting Controllera polega na zapoznaniu z lokalnymi procedurami, a nie szkoleniu w ramach wnioskowanego ratingu. Kandydat powinien w trakcie aplikowania posiadać wymaganą wiedzę z ogólnych zagadnień kontroli ruchu lotniczego w zakresie wnioskowanego ratingu.
 2. Visiting Controller może zostać poddany sprawdzeniu ogólnej wiedzy teoretycznej i praktycznej przez Egzaminatora, trwającego nie dłużej niż jedna sesja.
 3. W przypadku negatywnego wyniku sprawdzenia wiedzy kandydat ma prawo do ponownego ubiegania się o status Visiting Controllera po upływie 90 dni.
 4. Zakres oraz przebieg przygotowania teoretycznego i praktycznego Visiting Controller ustalany jest indywidualnie przez Dyrektora Szkolenia ATC (ATD).
-5. Dyrektor Szkolenia ATC (ATD) może powołać Opiekunów dedykowanych do prowadzenia szkoleń zapoznawczych dla Visiting Controllerów. Nie muszą spełniać pełnego progu kwalifikacyjnego Opiekuna PLVACC, wymagana jest natomiast znajomość lokalnych procedur operacyjnych, pozycji, które wprowadzają oraz posiadanie odpowiadającego im ratingu.
+5. Dyrektor Szkolenia ATC (ATD) może powołać Opiekunów uprawnionych do prowadzenia szkoleń zapoznawczych Visiting Controller. Nie muszą spełniać pełnego progu kwalifikacyjnego Opiekuna PLVACC, wymagana jest natomiast znajomość lokalnych procedur operacyjnych, pozycji, które wprowadzają oraz posiadanie odpowiadającego im ratingu.
 6. Warunkiem dopuszczenia do pełnienia służby jako Visiting Controller jest zaliczenie sesji OTS przeprowadzanej przez Egzaminatora, skutkującej nadaniem uprawnienia Visiting Controller w PLVACC.
 
 ### §22 Postanowienia końcowe
