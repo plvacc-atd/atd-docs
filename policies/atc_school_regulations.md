@@ -518,8 +518,8 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 3. Akceptacja podań o wznowienia i lista oczekiwania opiera się o bieżącą aktywność użytkownika w sieci.
 
 ### §21 Visiting Controller
-1. Kandydat Visiting Controller powinien w trakcie aplikowania posiadać wymaganą wiedzę z ogólnych zagadnień kontroli ruchu lotniczego w zakresie wnioskowanego ratingu, a wdrożenie powinno obejmować jedynie zaznajomienie z sektorem i procedurami lokalnymi.
-2. Visiting Controller może zostać poddany sprawdzeniu ogólnej wiedzy teoretycznej i praktycznej przez Egzaminatora, trwającego nie dłużej niż jedna sesja.
+1. Kandydat Visiting Controller (Visiting Applicant) powinien w trakcie aplikowania posiadać wymaganą wiedzę z ogólnych zagadnień kontroli ruchu lotniczego w zakresie wnioskowanego ratingu, a wdrożenie powinno obejmować jedynie zaznajomienie z sektorem i procedurami lokalnymi.
+2. Visiting Applicant może zostać poddany sprawdzeniu ogólnej wiedzy teoretycznej i praktycznej przez Egzaminatora, trwającego nie dłużej niż jedna sesja.
 3. W przypadku negatywnego wyniku sprawdzenia wiedzy kandydat ma prawo do ponownego ubiegania się o status Visiting Controllera po upływie 90 dni.
 4. Zakres oraz przebieg przygotowania teoretycznego i praktycznego Visiting Controller ustalany jest indywidualnie przez Dyrektora Szkolenia ATC (ATD).
 5. Dyrektor Szkolenia ATC (ATD) może powołać Opiekunów uprawnionych do prowadzenia szkoleń zapoznawczych Visiting Controller. Nie muszą spełniać pełnego progu kwalifikacyjnego Opiekuna PLVACC, wymagana jest natomiast znajomość lokalnych procedur operacyjnych, pozycji, które wprowadzają oraz posiadanie odpowiadającego im ratingu.
