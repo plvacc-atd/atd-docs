@@ -484,11 +484,11 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 5. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S2-PE] i [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
 6. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE;
-    2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze S3.
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler z ratingiem S3.
 7. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
 8. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
-    2. posiada co najmniej 50 godzin doświadczenia jako kontroler w randze C1.
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler z ratingiem C1.
 9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
 10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
 11. bowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
