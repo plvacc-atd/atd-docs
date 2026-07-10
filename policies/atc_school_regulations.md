@@ -264,21 +264,24 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 2. Pełnienie funkcji Opiekuna ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
 3. Opiekun jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-9.
 4. Nowo powołany Opiekun uprawniony jest wyłącznie do prowadzenia szkoleń [S2].
-5. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S2-PE] i [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
-6. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
+5. Opiekun nabywa uprawnienia do prowadzenia szkolenia [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
+6. Ze względu na szczególny charakter szkolenia [S2-PE], opiekun nabywa uprawnienia do jego prowadzenia, jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej jednego ucznia do uprawnień S2;
+    2. odbył szkolenie wprowadzające do prowadzenia szkoleń [S2-PE] w środowisku SweatBox. 
+7. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler z ratingiem S3.
-7. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
-8. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1], jeżeli spełnia łącznie następujące warunki:
+8. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
+9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1], jeżeli spełnia łącznie następujące warunki:
     1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
     2. posiada co najmniej 50 godzin doświadczenia jako kontroler z ratingiem C1.
-9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
-10. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
-11. bowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
-12. Opiekunem przestaje być osoba, która:
+10. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
+11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-9.
+12. bowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
+13. Opiekunem przestaje być osoba, która:
     1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
     2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności.
-13. W przypadku ponownego uzyskania statusu Opiekuna przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
+14. W przypadku ponownego uzyskania statusu Opiekuna przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
 
 ### §19 Egzaminatorzy
 
