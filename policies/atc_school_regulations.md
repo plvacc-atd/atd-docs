@@ -38,15 +38,16 @@ Ilekroć w niniejszym regulaminie mowa jest o:
 15. **SOLO TRAINING** – należy przez to rozumieć sesję treningową bez bezpośredniego nadzoru Opiekuna w trakcie szkolenia na rating S2, S3 lub C1, podczas której Uczeń może samodzielnie obejmować pozycję w celu samokształcenia, po uprzednim zgłoszeniu przez Opiekuna gotowości Ucznia do odbywania sesji SOLO TRAINING.
 
 ### §4 Zgłoszenia, kwalifikacja i organizacja szkolenia
-1. Do przystąpienia do szkolenia prowadzonego w ramach Szkoły Kontrolerów PLVACC zgłosić może się każdy członek sieci VATSIM, który spełnia łącznie następujące warunki:
-   1 zapoznał się z aktualnym regulaminem Szkoły Kontrolerów PLVACC;
+1. Zgłoszenie na szkolenie prowadzone w ramach Szkoły Kontrolerów PLVACC może wysłać każdy członek sieci VATSIM, który w momencie aplikacji spełnia łącznie następujące warunki:
+    1. zapoznał się z aktualnym regulaminem Szkoły Kontrolerów PLVACC;
     2. jest przypisany do PLVACC jako macierzysty vACC (home vACC);
     3. spełnia wymagania VATSIM dotyczące minimalnego wieku oraz posiadania konta użytkownika;
-    4. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
-    5. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
-    6. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer („XX_OBS”, gdzie „XX” oznacza inicjały), odbytych w okresach, w których zapewniana jest obsada ATC w vFIR Warszawa, w sposób umożliwiający rzeczywistą obserwację pracy kontrolerów PLVACC; aktywność polegająca wyłącznie na utrzymywaniu połączenia z siecią bez prowadzenia obserwacji nie jest uwzględniana przy ocenie spełnienia niniejszego wymogu;
-    7. potrafi obsługiwać i skonfigurować oprogramowanie wykorzystywane w PLVACC do prowadzenia kontroli, w szczególności EuroScope oraz TrackAudio (lub inne narzędzia wskazane przez PLVACC);
-    8. zaliczył test teoretyczny obejmujący wiedzę dotyczącą kontroli ruchu lotniczego oraz procedur lokalnych z wynikiem co najmniej 80% poprawnych odpowiedzi.
+    4. dołączył do serwera Discord PLVACC
+    5. potrafi porozumiewać się w języku angielskim w stopniu komunikatywnym;
+    6. posiada podstawową wiedzę z zakresu frazeologii i procedur lotniczych;
+    7. posiada na swoim koncie co najmniej 30 godzin aktywności online na pozycji Observer („XX_OBS”, gdzie „XX” oznacza inicjały), odbytych w okresach, w których zapewniana jest obsada ATC w vFIR Warszawa, w sposób umożliwiający rzeczywistą obserwację pracy kontrolerów PLVACC; aktywność polegająca wyłącznie na utrzymywaniu połączenia z siecią bez prowadzenia obserwacji nie jest uwzględniana przy ocenie spełnienia niniejszego wymogu;
+    8. potrafi obsługiwać i skonfigurować oprogramowanie wykorzystywane w PLVACC do prowadzenia kontroli, w szczególności EuroScope oraz TrackAudio (lub inne narzędzia wskazane przez PLVACC);
+    9. zaliczył test teoretyczny obejmujący wiedzę dotyczącą kontroli ruchu lotniczego oraz  procedur lokalnych z wynikiem co najmniej 80% poprawnych odpowiedzi.
 2. Zgłoszenia na szkolenie dokonuje się poprzez formularz zgłoszeniowy dostępny na stronie internetowej PLVACC.
 3. Weryfikacji zgłoszenia dokonuje Dyrektor Szkolenia ATC (ATD) lub osoba przez niego upoważniona, nie później niż w terminie 30 dni od daty wpłynięcia zgłoszenia.
 4. W przypadku pozytywnego rozpatrzenia zgłoszenia Kandydat otrzymuje informację o przyjęciu zgłoszenia oraz planowanym terminie kolejnego etapu kwalifikacji.
@@ -59,7 +60,7 @@ Ilekroć w niniejszym regulaminie mowa jest o:
     1. egzaminu (CPT) na rating VATSIM;
     2. sesji OTS w celu uzyskania uprawnienia lokalnego (PE/CE);
     3. odbywania sesji SOLO TRAINING.<br>
-następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami określonymi w niniejszym regulaminie.
+       następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami określonymi w niniejszym regulaminie.
 11. Zasady dotyczące organizacji poszczególnych etapów szkolenia (w tym wymagania wstępne oraz szczegółowe warunki zaliczeń) określają dalsze paragrafy regulaminu.
 
 ### §5 Rozmowa Kwalifikacyjna
@@ -113,9 +114,10 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
     6. SZKOLENIE S3 CHOPIN ENDORSEMENT – [S3-CE];
     7. SZKOLENIE KONTROLERA OBSZARU – [C1];
     8. SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE].
-2. Szkolenia, o których mowa w ust. 1 lit. b, e oraz g, kończą się egzaminem (CPT) w celu uzyskania odpowiednio ratingu VATSIM S2, S3 albo C1.
-3. Szkolenia, o których mowa w ust. 1 lit. c, d, f oraz h, kończą się sesją OTS w celu uzyskania odpowiedniego uprawnienia lokalnego PLVACC.
+2. Szkolenia, o których mowa w ust. 1 ppkt ii, v oraz vii, kończą się egzaminem (CPT) w celu uzyskania odpowiednio ratingu VATSIM S2, S3 albo C1.
+3. Szkolenia, o których mowa w ust. 1 ppkt. iii, iv, vi oraz viii, kończą się sesją OTS w celu uzyskania odpowiedniego uprawnienia lokalnego PLVACC.
 4. Szczegółowe wymagania, zakres oraz warunki zaliczenia poszczególnych szkoleń określają dalsze paragrafy regulaminu.
+5. Zaleca się, aby w trakcie szkoleń, o których mowa w ust. 1, uczeń oraz Opiekun w trakcie sesji szkoleniowych przebywali w jednym z dedykowanych do tego celów pokojów Discord o nazwie _Szkoła Kontrolerów - Training Room X_, gdzie X to kolejny numer począwszy od nr 1. Uczestnictwo osób postronnych w sesjach szkoleniowych powinno być ograniczone.
 
 ### §9 Szkolenie kontrolera praktykanta – [S1]
 1. Po pozytywnym wyniku rozmowy kwalifikacyjnej Kandydatowi przydzielany jest Opiekun, a następnie rozpoczyna on szkolenie [S1].
@@ -173,7 +175,7 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
     1. posiadanie ratingu VATSIM S2 przez co najmniej 60 dni;
     2. posiadanie ważnego S2 Procedural Endorsement [S2-PE] oraz ważnego S2 Chopin Endorsement [S2-CE];
     3. posiadanie łącznie co najmniej 50 godzin na pozycji TWR (z wyłączeniem pozycji I_TWR oraz R_TWR oraz z wyłączeniem godzin szkoleniowych);
-    4. uzyskanie rekomendacji dwóch osób posiadających rating S3+ oraz ważny CE; 
+    4. uzyskanie rekomendacji dwóch osób posiadających rating S3+ oraz ważny CE;
     5. samodzielne wskazanie przez Ucznia Opiekuna uprawnionego do prowadzenia szkolenia [S3], po uprzednim uzgodnieniu z nim;
     6. uzyskanie pozytywnego wyniku rozmowy kwalifikacyjnej, jeżeli Dyrektor Szkolenia ATC (ATD) wymaga jej przeprowadzenia zgodnie z §5 ust. 10.
 2. Pierwsza część szkolenia [S3] obejmuje szkolenie teoretyczne „PLVACC APPROACH” oraz test teoretyczny PLVACC.
@@ -226,7 +228,7 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 9. Egzamin (CPT) przeprowadzany jest przez dwóch Egzaminatorów na pozycji EPWW_S_CTR.
 10. Maksymalny czas realizacji szkolenia [C1] wynosi 90 dni i liczony jest od dnia odbycia pierwszej sesji szkoleniowej Ucznia z Opiekunem. W uzasadnionych przypadkach decyzję o dalszym toku szkolenia, w tym o jego kontynuowaniu albo zakończeniu, podejmuje Dyrektor Szkolenia ATC (ATD).
 
-### §16 SZKOLENIE C1 CHOPIN ENDORSEMENT – [C1-CE]
+### §16 Szkolenie C1 Chopin Endorsement – [C1-CE]
 1. Do rozpoczęcia szkolenia [C1-CE] wymagane jest spełnienie łącznie następujących warunków:
     1. posiadanie ratingu VATSIM C1 przez co najmniej 30 dni;
     2. posiadanie łącznie co najmniej 50 godzin na pozycjach CTR (z wyłączeniem godzin szkoleniowych);
@@ -252,17 +254,64 @@ następuje po zgłoszeniu gotowości Ucznia przez Opiekuna, zgodnie z zasadami o
 7. Posiadanie ratingu VATSIM C1 upoważnia do obejmowania pozycji typu _CTR w zakresie określonym przez PLVACC, z wyłączeniem pozycji EPWW_ALL_CTR oraz EPWW_ALH_CTR.
 8. Posiadanie uprawnienia lokalnego C1 Chopin Endorsement (C1-CE) upoważnia do obejmowania wszystkich pozycji typu _CTR, w tym pozycji EPWW_ALL_CTR i EPWW_ALH_CTR, a także pozycji EPWW_I_CTR, w zakresie określonym przez PLVACC.
 
-### §18 Visiting Controller
-1. PLVACC dopuszcza możliwość pełnienia służby w charakterze Visiting Controller przez kontrolerów spełniających łącznie następujące warunki:
-   a. posiadanie ratingu VATSIM C1 lub wyższego;
-   b. posiadanie co najmniej 200 godzin aktywności w sieci VATSIM w roli kontrolera, po uzyskaniu ratingu C1;
-   c. uzyskanie rekomendacji z macierzystego VACC wydanej przez osobę odpowiedzialną za prowadzenie lokalnej szkoły ATC;
-   d. zapoznał się z dokumentem vFIR Warszawa Operations Manual.
-2. Zakres oraz przebieg przygotowania teoretycznego i praktycznego Visiting Controller ustalany jest indywidualnie przez Dyrektora Szkolenia ATC (ATD).
-3. Warunkiem dopuszczenia do pełnienia służby jako Visiting Controller jest zaliczenie sesji OTS przeprowadzanej przez Egzaminatora, skutkującej nadaniem uprawnienia Visiting Controller w PLVACC.
+### §18 Opiekunowie
 
-### §19 Postanowienia końcowe
-1. Niniejszy regulamin wchodzi w życie z dniem 26.03.2026. Do szkoleń rozpoczętych i niezakończonych przed wejściem w życie regulaminu stosuje się przepisy dotychczasowe.
+1. Opiekunem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
+    1. wyraziła chęć pełnienia funkcji Opiekuna mailowo na adres training@plvacc.pl;
+    2. posiada co najmniej rating S2 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
+    3. została zaakceptowana przez Dyrektora Szkolenia ATC (ATD);
+    4. uczestniczyła w sesji wprowadzającej z Dyrektorem Szkolenia ATC (ATD) lub upoważnionym przez niego członkiem Szkoły Kontrolerów.
+2. Pełnienie funkcji Opiekuna ma charakter dobrowolny, nie precyzuje się żadnych wymagań dotyczących aktywności szkoleniowej.
+3. Opiekun jest uprawniony do prowadzenia szkoleń wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych, z uwzględnieniem punktów 4-10.
+4. Nowo powołany Opiekun uprawniony jest wyłącznie do prowadzenia szkoleń [S2].
+5. Opiekun nabywa uprawnienia do prowadzenia szkolenia [S2-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S2.
+6. Ze względu na szczególny charakter szkolenia [S2-PE], opiekun nabywa uprawnienia do jego prowadzenia, jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej jednego ucznia do uprawnień S2;
+    2. odbył szkolenie wprowadzające do prowadzenia szkoleń [S2-PE] w środowisku SweatBox.
+7. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3], jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S2, S2-PE i S2-CE;
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler z ratingiem S3.
+8. Opiekun nabywa uprawnienia do prowadzenia szkoleń [S3-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu S3.
+9. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1], jeżeli spełnia łącznie następujące warunki:
+    1. pozytywnie wyszkolił co najmniej po jednym uczniu do uprawnień S3 i S3-CE;
+    2. posiada co najmniej 50 godzin doświadczenia jako kontroler z ratingiem C1.
+10. Opiekun nabywa uprawnienia do prowadzenia szkoleń [C1-CE] po pozytywnym wyszkoleniu co najmniej jednego ucznia do ratingu C1.
+11. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Opiekunowi uprawnienia do szkolenia do ratingów i uprawnień lokalnych z pominięciem ograniczeń wymienionych w punktach 4-10.
+12. Obowiązkiem Opiekuna jest wprowadzenie do systemu CORE PLVACC raportu z każdej sesji szkoleniowej zrealizowanej z uczniem w przeciągu 72 h od jej zakończenia. Dyrektor Szkolenia ATC (ATD) może na prośbę Opiekuna wydłużyć ten termin w szczególnych przypadkach.
+13. Opiekunem przestaje być osoba, która:
+    1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
+    2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów szkolenia, lub społeczności.
+14. W przypadku ponownego uzyskania statusu Opiekuna przez osobę, która wcześniej złożyła rezygnację, zachowuje ona wszystkie uprzednio nabyte uprawnienia do prowadzenia szkoleń.
+
+### §19 Egzaminatorzy
+
+1. Egzaminatorem Szkoły Kontrolerów PLVACC może zostać każda osoba, która:
+    1. posiada co najmniej rating S3 i jest aktywnym kontrolerem, tzn. jest wpisana w roster;
+    2. posiada doświadczenie jako Opiekun w ramach ratingów, dla których będzie przeprowadzać egzaminy;
+    3. uzyska rekomendację aktywnego Egzaminatora i zostanie zaakceptowana przez Dyrektora Szkolenia ATC (ATD).
+2. Egzaminator uprawniony jest do prowadzenia egzaminów wyłącznie w ramach posiadanych ratingów i uprawnień lokalnych.
+3. Egzaminator nabywa uprawnienia do przeprowadzania egzaminów w ramach każdego z ratingów (S2, S3, C1) poprzez przeprowadzenie egzaminu na dany rating nadzorowanego przez innego Egzaminatora.
+4. Dyrektor Szkolenia ATC (ATD) może w szczególnych okolicznościach przyznać Egzaminatorowi uprawnienia do przeprowadzania egzaminów z pominięciem ograniczeń wymienionych w punkcie 1.2.
+5. Egzaminatorem przestaje być osoba, która:
+    1. złożyła rezygnację drogą mailową na adres training@plvacc.pl;
+    2. została odwołana ze stanowiska przez Dyrektora Szkolenia ATC (ATD) w związku ze stwierdzeniem braku kompetencji lub naruszeniem standardów egzaminowania lub społeczności.
+6. Egzaminator stosuje się do VATEUD CPT guidelines oraz lokalnych procedur egzaminacyjnych.
+
+### §20 Wznowienia
+
+1. Wznowienia prowadzone są zgodnie z wytycznymi VATEUD Training Policy.
+2. Podanie o wznowienie razem z uzasadnieniem należy wysyłać mailowo na adres training@plvacc.pl.
+
+### §21 Visiting Controller
+1. Kandydat Visiting Controller (Visiting Applicant) powinien w trakcie aplikowania posiadać wymaganą wiedzę z ogólnych zagadnień kontroli ruchu lotniczego w zakresie wnioskowanego ratingu, a wdrożenie powinno obejmować jedynie zaznajomienie z sektorem i procedurami lokalnymi.
+2. Visiting Applicant może zostać poddany sprawdzeniu ogólnej wiedzy teoretycznej i praktycznej przez Egzaminatora, trwającego nie dłużej niż jedna sesja.
+3. W przypadku negatywnego wyniku sprawdzenia wiedzy kandydat ma prawo do ponownego ubiegania się o status Visiting Controllera po upływie 90 dni.
+4. Zakres oraz przebieg przygotowania teoretycznego i praktycznego Visiting Controller ustalany jest indywidualnie przez Dyrektora Szkolenia ATC (ATD).
+5. Dyrektor Szkolenia ATC (ATD) może powołać Opiekunów uprawnionych do prowadzenia szkoleń zapoznawczych Visiting Controller. Nie muszą spełniać pełnego progu kwalifikacyjnego Opiekuna PLVACC, wymagana jest natomiast znajomość lokalnych procedur operacyjnych, pozycji, które wprowadzają oraz posiadanie odpowiadającego im ratingu.
+6. Warunkiem dopuszczenia do pełnienia służby jako Visiting Controller jest zaliczenie sesji OTS przeprowadzanej przez Egzaminatora, skutkującej nadaniem uprawnienia Visiting Controller w PLVACC.
+
+### §22 Postanowienia końcowe
+1. Niniejszy regulamin wchodzi w życie z dniem 01.07.2026. Do szkoleń rozpoczętych i niezakończonych przed wejściem w życie regulaminu stosuje się przepisy dotychczasowe.
 2. Za nadzór nad stosowaniem niniejszego regulaminu oraz jego aktualizację odpowiada Dyrektor Szkolenia ATC (ATD).
 3. Regulamin podlega ogłoszeniu na stronie internetowej PLVACC.
 4. W sprawach nieuregulowanych niniejszym regulaminem decyzje podejmuje Dyrektor Szkolenia ATC (ATD), z zastrzeżeniem, że od decyzji ATD przysługuje odwołanie do Zarządu PLVACC w terminie 7 dni od wydania decyzji.
